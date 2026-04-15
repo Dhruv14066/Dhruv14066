@@ -1,16 +1,42 @@
-## Hi there 👋
+# Hi, I'm Dhruv 👋
 
-<!--
-**Dhruv14066/Dhruv14066** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 Full Stack Developer | MERN Stack | AI/ML Enthusiast
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 💡 About Me
+
+* 🎓 Computer Science Student
+* 💻 Skilled in MERN Stack (MongoDB, Express, React, Node.js)
+* 📊 Working on ML projects like AQI Predictor
+* 🧠 Strong in DSA & Problem Solving
+
+---
+
+## 🛠️ Tech Stack
+
+**Frontend:** React, HTML, CSS, Tailwind
+**Backend:** Node.js, Express
+**Database:** MongoDB, SQL
+**Tools:** Git, GitHub, Postman
+
+---
+
+## 🚀 Projects
+
+* 🏥 HealthMobi – Healthcare SaaS system
+* 🌫️ AQI Predictor – ML-based pollution prediction
+* 🚦 Traffic System – Smart traffic simulation
+
+---
+
+## 📊 GitHub Stats
+
+![Dhruv's GitHub stats](https://github-readme-stats.vercel.app/api?username=Dhruv14066\&show_icons=true\&theme=radical)
+
+---
+
+## 📫 Connect With Me
+
+* LinkedIn: https://linkedin.com/in/dhruv-dhanuka/
+* Email: dhruvdhanuka315@gmail.com(mailto:dhruvdhanuka315@gmail.com)
