@@ -22,14 +22,6 @@
 
 ---
 
-## 🚀 Projects
-
-* 🏥 HealthMobi – Healthcare SaaS system
-* 🌫️ AQI Predictor – ML-based pollution prediction
-* 🚦 Traffic System – Smart traffic simulation
-
----
-
 ## 📊 GitHub Stats
 
 ![Dhruv's GitHub stats](https://github-readme-stats.vercel.app/api?username=Dhruv14066\&show_icons=true\&theme=radical)
